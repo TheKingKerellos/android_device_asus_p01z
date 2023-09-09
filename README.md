@@ -19,7 +19,7 @@
 | Release Date            | June 2015                         |
 
 ## Device Picture
-
+![Asus Zenpad P01Z](https://fdn2.gsmarena.com/vv/bigpic/asus-zenpad-c-70.jpg)
 ```
 #
 # Copyright (C) 2023 The Android Open Source Project
